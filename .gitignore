@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+node_modules/
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Node modules
+node_modules/
+
+# Environment variables
+*.env
+
+# Django stuff you don’t want in repo
